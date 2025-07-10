@@ -1,0 +1,21 @@
+Music Generation Evaluation Report
+=================================
+
+File: sad.mid
+Rhythmic Variance: 0.000000
+Melodic Smoothness: mean=8.68, variance=26.80
+Phrase Similarity: 0.24
+
+--------------------------------------------------
+File: sample.mid
+Rhythmic Variance: 0.000000
+Melodic Smoothness: mean=0.92, variance=4.44
+Phrase Similarity: 0.27
+
+--------------------------------------------------
+File: blues.mid
+Rhythmic Variance: 0.000000
+Melodic Smoothness: mean=14.47, variance=123.89
+Phrase Similarity: 0.24
+
+--------------------------------------------------
